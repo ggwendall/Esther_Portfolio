@@ -127,24 +127,16 @@ const About = () => {
         About Us
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
-        Bonjour ! Je suis Esther, une illustratrice fantastique passionnée. En tant qu'artiste freelance, 
-        je donne vie à des personnages/mondes magiques et imaginaires à travers mes illustrations.
+        Je suis Esther QUENET, une passionnée de design âgée de 24 ans. J'ai développé de solides compétences dans le domaine, 
+        allant du design graphique à la création digitale.
         <br />
-        Mon style allie l'esthétique fantastique et une attention méticuleuse aux détails. Chaque création que je réalise est 
-        le fruit d'une exploration des univers fantastiques, des créatures mystiques et des paysages enchanteurs. Je m'efforce de 
-        capturer l'essence de l'extraordinaire et de l'insuffler dans mes illustrations, créant ainsi des pièces qui transportent 
-        les spectateurs vers des royaumes imaginaires.
+        J'ai pu mettre en pratique mes compétences et approfondir ma compréhension du secteur grâce à des stages chez AFTEC et au RPCommunity. Ces expériences pratiques ont renforcé ma formation académique.
+        Parallèlement à mes études, je suis illustratrice en auto-entreprise depuis août 2020. Cette activité me permet d'exprimer ma créativité à travers diverses illustrations, notamment des stickers et des cartes.
         <br />
-
-        En travaillant avec moi, vous pouvez vous attendre à une collaboration étroite et à une communication fluide. J'attache une grande importance 
-        à comprendre les besoins et les aspirations de mes clients, afin de traduire leurs idées en illustrations. Que vous soyez un auteur cherchant à 
-        donner vie à vos personnages fantastiques, un éditeur en quête d'une couverture de livre captivante ou une entreprise souhaitant ajouter une touche 
-        magique à votre branding, je suis prête à relever tous les défis créatifs qui se présentent.
-    
+        En dehors du design, je trouve de l'épanouissement dans d'autres centres d'intérêts complémentaires. Le dessin, la peinture et la photographie sont des moyens pour moi d'exprimer ma créativité. J'aime également me plonger dans l'univers des jeux de société et découvrir la richesse de la culture asiatique.
         <br />
-        N'hésitez pas à parcourir la page "Travaux", où vous pourrez découvrir un échantillon de ce que j'ai pu réaliser. Si vous êtes à la recherche d'illustrations 
-        fantastiques uniques qui suscitent l'émerveillement et l'imagination, contactez-moi dès maintenant. Ensemble, nous donnerons vie à vos rêves les plus
-        fantastiques !
+        Actuellement, je suis à la recherche d'opportunités stimulantes où je pourrais mettre à profit mes compétences en design et en direction artistique digitale. Forte de mon bagage académique, de mes expériences professionnelles et de ma passion dévorante, je suis prête à apporter une contribution créative et innovante à tout projet dans lequel je m'engagerai.
+        <br />
       </Left>
       <Right>
         <img src={img1} alt="About Us" />

@@ -205,7 +205,7 @@ const Shop = () => {
   return (
     <Section ref={ref} id="shop">
       <Title data-scroll data-scroll-speed="-1">
-        New Collection
+       Compétences
       </Title>
       <Left>
         <p>

@@ -141,8 +141,8 @@ const Footer = () => {
         <ul>
           <li onClick={() => handleScroll("#home")}>home</li>
           <li onClick={() => handleScroll(".about")}>a propos</li>
-          <li onClick={() => handleScroll("#shop")}>compétence</li>
-          <li onClick={() => handleScroll("#new-arrival")}>new arrival</li>
+          <li onClick={() => handleScroll("#shop")}>compétences</li>
+          <li onClick={() => handleScroll("#new-arrival")}>Travaux</li>
           <li>
             <a href="" target="_blank" rel="noreferrer">
               

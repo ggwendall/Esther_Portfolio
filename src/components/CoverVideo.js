@@ -159,6 +159,7 @@ const CoverVideo = () => {
 
         </motion.h2>
       </Title>
+      <video src={MainVideo} type="video/mp4" autoPlay muted loop />
     </VideoContainer>
   );
 };

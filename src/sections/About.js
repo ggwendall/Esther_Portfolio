@@ -130,7 +130,6 @@ const About = () => {
         Bonjour ! Je suis Esther, une illustratrice fantastique passionnée. En tant qu'artiste freelance, 
         je donne vie à des personnages/mondes magiques et imaginaires à travers mes illustrations.
         <br />
-
         Mon style allie l'esthétique fantastique et une attention méticuleuse aux détails. Chaque création que je réalise est 
         le fruit d'une exploration des univers fantastiques, des créatures mystiques et des paysages enchanteurs. Je m'efforce de 
         capturer l'essence de l'extraordinaire et de l'insuffler dans mes illustrations, créant ainsi des pièces qui transportent 
@@ -141,7 +140,7 @@ const About = () => {
         à comprendre les besoins et les aspirations de mes clients, afin de traduire leurs idées en illustrations. Que vous soyez un auteur cherchant à 
         donner vie à vos personnages fantastiques, un éditeur en quête d'une couverture de livre captivante ou une entreprise souhaitant ajouter une touche 
         magique à votre branding, je suis prête à relever tous les défis créatifs qui se présentent.
-        
+    
         <br />
         N'hésitez pas à parcourir la page "Travaux", où vous pourrez découvrir un échantillon de ce que j'ai pu réaliser. Si vous êtes à la recherche d'illustrations 
         fantastiques uniques qui suscitent l'émerveillement et l'imagination, contactez-moi dès maintenant. Ensemble, nous donnerons vie à vos rêves les plus

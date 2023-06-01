@@ -78,7 +78,7 @@ const Logo = () => {
       <Link to="/">
       <svg xmlns="http://www.w3.org/2000/svg" width="1917.333" height="516" version="1.0" viewBox="0 0 1438 387"><path d="M688.3 68.5c-3.7 3.8-3.5 5.3.7 7.9 3.8 2.2 3.8 3.6.1 3.6-3.3 0-6.7 3.6-11.4 12l-2.8 5h44.3l-3.2-4c-4.6-5.9-10.7-10.7-15.3-12.3-3.8-1.2-4.2-1.7-6.4-8.2-1.2-3.7-2.4-6.9-2.5-7.1-.2-.1-1.8 1.3-3.5 3.1z"/></svg>
         <Text variants={textVariants} initial="hidden" animate="visible">
-          EowlArt
+          Esther Quenet
         </Text>
       </Link>
     </Container>

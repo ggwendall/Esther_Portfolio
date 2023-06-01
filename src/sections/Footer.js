@@ -127,7 +127,7 @@ const Footer = () => {
     <Section>
       <LogoContainer>
         <h3 data-scroll data-scroll-speed="-1">
-          EowlArt
+          Esther Quenet
         </h3>
       </LogoContainer>
       <FooterComponent
@@ -140,8 +140,8 @@ const Footer = () => {
       >
         <ul>
           <li onClick={() => handleScroll("#home")}>home</li>
-          <li onClick={() => handleScroll(".about")}>about</li>
-          <li onClick={() => handleScroll("#shop")}>shop</li>
+          <li onClick={() => handleScroll(".about")}>a propos</li>
+          <li onClick={() => handleScroll("#shop")}>compétence</li>
           <li onClick={() => handleScroll("#new-arrival")}>new arrival</li>
           <li>
             <a href="" target="_blank" rel="noreferrer">

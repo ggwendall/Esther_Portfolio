@@ -157,6 +157,7 @@ const CoverVideo = () => {
           data-scroll-speed="2"
           Portfolio .
         >
+            Portfolio
         </motion.h2>
       </Title>
       <video src={MainVideo} type="video/mp4" autoPlay muted loop />

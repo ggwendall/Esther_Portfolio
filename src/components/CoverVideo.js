@@ -155,6 +155,7 @@ const CoverVideo = () => {
           data-scroll
           data-scroll-delay="0.04"
           data-scroll-speed="2"
+          Portfolio .
         >
         </motion.h2>
       </Title>

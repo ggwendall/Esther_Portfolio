@@ -233,6 +233,8 @@ const Shop = () => {
         <Product img={img11} title="créativité" />
         <Product img={img12} title="curieuse" />
         <Product img={img13} title="envie d'apprendre" />
+        <Product img={img} title="" />
+        <Product img={img} title="" />
       </Right>
     </Section>
   );

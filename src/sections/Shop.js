@@ -216,7 +216,7 @@ const Shop = () => {
       <Right ref={horizontalRef}>
         <Product img={img1} title="identité visuelle" />
         <Product img={img2} title="illustration" />
-        <Product img={img3} title="photo" />
+        <Product img={img3} title="photographie" />
         <Product img={img4} title="Design de personnage" />
         <Product img={img5} title="motion design" />
         <Product img={img6} title="créativité" />

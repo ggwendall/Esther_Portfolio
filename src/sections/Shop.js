@@ -209,16 +209,8 @@ const Shop = () => {
       </Title>
       <Left>
           <p>
-          Chaque œuvre d'art incarne un mélange d'esthétique fantastique et d'attention méticuleuse aux détails. 
-          Chaque création est le résultat de l'exploration de royaumes enchanteurs, de créatures mystiques et de 
-          paysages captivants. Esther s'efforce de capturer l'essence de l'extraordinaire et de l'insuffler dans 
-          ses illustrations, transportant les spectateurs dans des royaumes imaginaires.
           <br />
           <br />
-          Esther déploie toute sa créativité en proposant une large gamme d'illustrations uniques. 
-          Que ce soit à travers des personnages, des mondes imaginaires ou des paysages enchanteurs, 
-          elle donne vie à des œuvres captivantes. Découvrir ses créations vous permettra de vous immerger dans un univers visuel fantastique, 
-          où chaque illustration transporte les spectateurs vers des royaumes imaginaires.
         </p>
       </Left>
       <Right ref={horizontalRef}>

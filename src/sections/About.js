@@ -10,7 +10,6 @@ const Section = styled.section`
   min-height: 100vh;
   width: 80vw;
   display: flex;
-  background-color: ${(props) => props.theme.purple};
   margin: 0 auto;
 
   @media (max-width: 48em) {
@@ -24,7 +23,6 @@ const Title = styled.h1`
   font-size: ${(props) => props.theme.fontBig};
   font-family: "Kaushan Script";
   font-weight: 300;
-  background-color: ${(props) => props.theme.purple};
   position: absolute;
   top: 1rem;
   left: 5%;
@@ -74,9 +72,6 @@ const Left = styled.div`
   }
 `;
 const Right = styled.div`
-
-  background-color: ${(props) => props.theme.purple};
-  
   width: 50%;
   position: relative;
   img {

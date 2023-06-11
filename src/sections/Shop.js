@@ -95,7 +95,7 @@ const Right = styled.div`
   padding-left: 30%;
   min-height: 100vh;
 
-  background-color: ${(props) => props.theme.grey};
+  background-color: ${(props) => props.theme.body};
   /* width: 65%; */
   display: flex;
   justify-content: flex-start;

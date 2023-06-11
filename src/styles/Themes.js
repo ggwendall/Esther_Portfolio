@@ -7,6 +7,7 @@ export const dark = {
     textRgba: '255,255,255',
 
     grey: '#7292CB', // grey shade
+    purple: '#7E69AF',
 
     fontxs: '0.75em', //1em = 16px
     fontsm: '0.875em', 

@@ -24,7 +24,7 @@ const Title = styled.h1`
   font-size: ${(props) => props.theme.fontBig};
   font-family: "Kaushan Script";
   font-weight: 300;
-
+  background-color: ${(props) => props.theme.purple};
   position: absolute;
   top: 1rem;
   left: 5%;
@@ -46,7 +46,9 @@ const Left = styled.div`
   position: relative;
   z-index: 5;
   margin-top: 20%;
+
   background-color: ${(props) => props.theme.purple};
+
   @media (max-width: 64em) {
     width: 80%;
     position: absolute;
@@ -72,7 +74,9 @@ const Left = styled.div`
   }
 `;
 const Right = styled.div`
+
   background-color: ${(props) => props.theme.purple};
+  
   width: 50%;
   position: relative;
   img {

@@ -16,6 +16,9 @@ import img7 from "../assets/Images/7.webp";
 import img8 from "../assets/Images/8.webp";
 import img9 from "../assets/Images/9.webp";
 import img10 from "../assets/Images/10.webp";
+import img11 from "../assets/Images/15.webp";
+import img12 from "../assets/Images/16.webp";
+import img13 from "../assets/Images/17.webp"
 
 const Section = styled.section`
   min-height: 100vh;
@@ -209,21 +212,27 @@ const Shop = () => {
       </Title>
       <Left>
           <p>
+          Chaque œuvre d'art incarne un mélange d'esthétique fantastique et d'attention méticuleuse aux détails. 
+          Chaque création est le résultat de l'exploration de royaumes enchanteurs, de créatures mystiques et de 
+          paysages captivants. Esther s'efforce de capturer l'essence de l'extraordinaire et de l'insuffler dans 
+          ses illustrations, transportant les spectateurs dans des royaumes imaginaires.
           <br />
           <br />
+          Esther déploie toute sa créativité en proposant une large gamme d'illustrations uniques. 
+          Que ce soit à travers des personnages, des mondes imaginaires ou des paysages enchanteurs, 
+          elle donne vie à des œuvres captivantes. Découvrir ses créations vous permettra de vous immerger dans un univers visuel fantastique, 
+          où chaque illustration transporte les spectateurs vers des royaumes imaginaires.
         </p>
       </Left>
       <Right ref={horizontalRef}>
         <Product img={img1} title="identité visuelle" />
-        <Product img={img2} title="illustration" />
+        <Product img={img5} title="illustration" />
         <Product img={img3} title="photographie" />
-        <Product img={img4} title="Design de personnage" />
+        <Product img={img10} title="Design de personnage" />
         <Product img={img5} title="motion design" />
-        <Product img={img6} title="créativité" />
-        <Product img={img7} title="curieuse" />
-        <Product img={img8} title="envie d'apprendre" />
-        <Product img={img9} title="Watches" />
-        <Product img={img10} title="Special Edition" />
+        <Product img={img11} title="créativité" />
+        <Product img={img12} title="curieuse" />
+        <Product img={img13} title="envie d'apprendre" />
       </Right>
     </Section>
   );

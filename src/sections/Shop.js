@@ -208,11 +208,11 @@ const Shop = () => {
        Compétences
       </Title>
       <Left>
-        <p>
-        Chaque œuvre d'art incarne un mélange d'esthétique fantastique et d'attention méticuleuse aux détails. 
-        Chaque création est le résultat de l'exploration de royaumes enchanteurs, de créatures mystiques et de 
-        paysages captivants. Esther s'efforce de capturer l'essence de l'extraordinaire et de l'insuffler dans 
-        ses illustrations, transportant les spectateurs dans des royaumes imaginaires.
+          <p>
+          Chaque œuvre d'art incarne un mélange d'esthétique fantastique et d'attention méticuleuse aux détails. 
+          Chaque création est le résultat de l'exploration de royaumes enchanteurs, de créatures mystiques et de 
+          paysages captivants. Esther s'efforce de capturer l'essence de l'extraordinaire et de l'insuffler dans 
+          ses illustrations, transportant les spectateurs dans des royaumes imaginaires.
           <br />
           <br />
           Esther déploie toute sa créativité en proposant une large gamme d'illustrations uniques. 
@@ -222,14 +222,14 @@ const Shop = () => {
         </p>
       </Left>
       <Right ref={horizontalRef}>
-        <Product img={img1} title="Man Basics" />
-        <Product img={img2} title="Tops" />
-        <Product img={img3} title="Sweatshirts" />
-        <Product img={img4} title="Ethnic Wear" />
-        <Product img={img5} title="Blazers" />
-        <Product img={img6} title="Suits" />
-        <Product img={img7} title="Antiques" />
-        <Product img={img8} title="Jewellery" />
+        <Product img={img1} title="identité visuelle" />
+        <Product img={img2} title="illustration" />
+        <Product img={img3} title="photo" />
+        <Product img={img4} title="Design de personnage" />
+        <Product img={img5} title="motion design" />
+        <Product img={img6} title="créativité" />
+        <Product img={img7} title="curieuse" />
+        <Product img={img8} title="envie d'apprendre" />
         <Product img={img9} title="Watches" />
         <Product img={img10} title="Special Edition" />
       </Right>

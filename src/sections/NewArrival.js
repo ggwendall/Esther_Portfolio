@@ -205,21 +205,7 @@ const NewArrival = () => {
         <Product img={img2} title="Cool Dresses" />
         <Product img={img3} title="Jackets" />
         <Product img={img4} title="T-shirts" />
-      </Container>
-
-      <Text data-scroll data-scroll-speed="-4">
-        Une nouvelle collection d'illustrations uniques est maintenant disponible pour vous. Cette collection offre 
-        une variété de styles d'illustrations cool qui s'adaptent à tous les goûts. Que vous recherchiez des personnages 
-        fantastiques, des mondes imaginaires ou des paysages enchanteurs, vous trouverez dans cette collection des 
-        illustrations qui vous transporteront vers de nouveaux horizons créatifs.
-        <br />
-        <br />
-        La première série d'illustrations de cette collection est spécialement conçue pour captiver les regards masculins. 
-        De plus, la collection comprend également trois nouveaux styles d'illustrations pour les femmes.
-        <br />
-        <br />
-        Laissez-vous tenter par cette collection et découvrez un nouveau monde d'illustrations 
-      </Text>
+      </Container>      
     </Section>
   );
 };

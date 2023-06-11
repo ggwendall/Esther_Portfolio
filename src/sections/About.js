@@ -122,7 +122,7 @@ const About = () => {
         data-scroll-speed="-2"
         data-scroll-direction="horizontal"
       >
-        About Us
+        A propos
       </Title>
       <Left data-scroll data-scroll-sticky data-scroll-target="#fixed-target">
         Je suis Esther QUENET, une passionnée de design âgée de 24 ans. J'ai développé de solides compétences dans le domaine, 

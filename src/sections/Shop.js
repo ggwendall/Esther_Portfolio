@@ -34,7 +34,7 @@ const Title = styled.h1`
   font-size: ${(props) => props.theme.fontxxxl};
   font-family: "Kaushan Script";
   font-weight: 300;
-  text-shadow: 1px 1px 1px ${(props) => props.theme.body};
+  text-shadow: 1px 1px 1px ${(props) => props.theme.gray};
   color: ${(props) => props.theme.text};
   position: absolute;
   top: 1rem;

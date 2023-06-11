@@ -45,8 +45,6 @@ const Left = styled.div`
   z-index: 5;
   margin-top: 20%;
 
-  background-color: ${(props) => props.theme.purple};
-
   @media (max-width: 64em) {
     width: 80%;
     position: absolute;

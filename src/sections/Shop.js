@@ -23,6 +23,7 @@ const Section = styled.section`
   width: 100vw;
   margin: 0 auto;
   overflow: hidden;
+  background-color: ${(props) => props.theme.gray};
 
   display: flex;
   justify-content: flex-start;
@@ -108,6 +109,7 @@ const Right = styled.div`
 `;
 
 const Item = styled(motion.div)`
+  background-color: ${(props) => props.theme.gray};
   width: 20rem;
   margin-right: 6rem;
 

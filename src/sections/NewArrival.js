@@ -7,7 +7,7 @@ import img1 from "../assets/Images/11.webp";
 import img2 from "../assets/Images/12.webp";
 import img3 from "../assets/Images/13.webp";
 import img4 from "../assets/Images/14.webp";
-import img5 form "../assets/Images/15.webp";
+import img5 from "../assets/Images/15.webp";
 
 const Section = styled.section`
   min-height: 100vh;

@@ -88,7 +88,7 @@ const Banner = () => {
             data-scroll-speed="6"
             data-scroll-target="#up"
           >
-            On ne peut jamais être trop ou pas assez inspiré
+            On ne peut jamais être trop ou 
           </span>
         </BannerComponent>
         <BannerComponent>
@@ -98,7 +98,7 @@ const Banner = () => {
             data-scroll-speed="-4"
             data-scroll-target="#up"
           >
-            sous-inspirée
+           pas assez inspiré sous-inspirée
           </span>
         </BannerComponent>
         <BannerComponent>

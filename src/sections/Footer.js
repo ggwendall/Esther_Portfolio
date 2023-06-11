@@ -21,26 +21,6 @@ const Section = styled.section`
   position: relative;
 `;
 
-const LogoContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-
-  img {
-    width: 10vw;
-    height: auto;
-  }
-  h3 {
-    font-size: ${(props) => props.theme.fontxxl};
-    font-family: "Kaushan Script";
-
-    @media (max-width: 48em) {
-      font-size: ${(props) => props.theme.fontxl};
-    }
-  }
-`;
-
 const FooterComponent = styled(motion.footer)`
   width: 80vw;
 

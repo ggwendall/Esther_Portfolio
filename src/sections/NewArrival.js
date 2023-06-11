@@ -201,10 +201,10 @@ const NewArrival = () => {
       </Title>
 
       <Container ref={ScrollingRef}>
-        <Product img={img1} title="Denim" />
-        <Product img={img2} title="Cool Dresses" />
-        <Product img={img3} title="Jackets" />
-        <Product img={img4} title="T-shirts" />
+        <Product img={img3} title="(en cours)" />
+        <Product img={img1} title="Nouvelle an" />
+        <Product img={img2} title="Rebranding" />
+        <Product img={img4} title="Concept Art" />
       </Container>      
     </Section>
   );

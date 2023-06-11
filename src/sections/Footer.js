@@ -15,7 +15,7 @@ const Section = styled.section`
   justify-content: center;
   align-items: center;
 
-  background-color: ${(props) => props.theme.body};
+  background-color: ${(props) => props.theme.gray};
   color: ${(props) => props.theme.text};
 
   position: relative;
@@ -167,7 +167,7 @@ const Footer = () => {
             data-scroll-speed="-2"
             data-scroll-direction="horizontal"
           >
-            Made with &hearts; by &nbsp Esther;
+            Made with &hearts; by Esther;
             <a
               href=""
               target="_blank"

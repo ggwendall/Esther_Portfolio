@@ -15,7 +15,7 @@ const Section = styled.section`
   justify-content: center;
   align-items: center;
 
-  background-color: ${(props) => props.theme.gray};
+  background-color: ${(props) => props.theme.body};
   color: ${(props) => props.theme.text};
 
   position: relative;

@@ -10,7 +10,7 @@ const Section = styled.section`
   min-height: 100vh;
   width: 80vw;
   display: flex;
-
+  background-color: ${(props) => props.theme.purple};
   margin: 0 auto;
 
   @media (max-width: 48em) {

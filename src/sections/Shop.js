@@ -18,7 +18,8 @@ import img9 from "../assets/Images/9.webp";
 import img10 from "../assets/Images/10.webp";
 import img11 from "../assets/Images/15.webp";
 import img12 from "../assets/Images/16.webp";
-import img13 from "../assets/Images/17.webp"
+import img13 from "../assets/Images/17.webp";
+import img14 from "../assets/Images/18.NEF";
 
 const Section = styled.section`
   min-height: 100vh;
@@ -227,14 +228,14 @@ const Shop = () => {
       <Right ref={horizontalRef}>
         <Product img={img1} title="identité visuelle" />
         <Product img={img5} title="illustration" />
-        <Product img={img3} title="photographie" />
+        <Product img={img14} title="photographie" />
         <Product img={img10} title="Design de personnage" />
         <Product img={img5} title="motion design" />
         <Product img={img11} title="créativité" />
         <Product img={img12} title="curieuse" />
         <Product img={img13} title="envie d'apprendre" />
-        <Product img={img} title="" />
-        <Product img={img} title="" />
+        <Product img={img9} title="Travail equipe" />
+        <Product img={img3} title="ecoute" />
       </Right>
     </Section>
   );

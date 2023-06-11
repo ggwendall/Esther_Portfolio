@@ -51,7 +51,7 @@ const Title = styled.h1`
 
 const Left = styled.div`
   width: 35%;
-  background-color: ${(props) => props.theme.body};
+  background-color: ${(props) => props.theme.gray};
   color: ${(props) => props.theme.text};
 
   min-height: 100vh;

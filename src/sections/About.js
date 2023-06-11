@@ -129,11 +129,11 @@ const About = () => {
         allant du design graphique à la création digitale.
         <br />
         J'ai pu mettre en pratique mes compétences et approfondir ma compréhension du secteur grâce à des stages chez AFTEC et au RPCommunity. Ces expériences pratiques ont renforcé ma formation académique.
-        Parallèlement à mes études, je suis illustratrice en auto-entreprise depuis août 2020. Cette activité me permet d'exprimer ma créativité à travers diverses illustrations, notamment des stickers et des cartes.
+        Parallèlement à mes études, je suis illustratrice en auto-entreprise depuis août 2020. 
         <br />
         En dehors du design, je trouve de l'épanouissement dans d'autres centres d'intérêts complémentaires. Le dessin, la peinture et la photographie sont des moyens pour moi d'exprimer ma créativité. J'aime également me plonger dans l'univers des jeux de société et découvrir la richesse de la culture asiatique.
         <br />
-        Actuellement, je suis à la recherche d'opportunités stimulantes où je pourrais mettre à profit mes compétences en design et en direction artistique digitale. Forte de mon bagage académique, de mes expériences professionnelles et de ma passion dévorante, je suis prête à apporter une contribution créative et innovante à tout projet dans lequel je m'engagerai.
+        Forte de mon bagage académique, de mes expériences professionnelles et de ma passion dévorante, je suis prête à apporter une contribution créative et innovante à tout projet dans lequel je m'engagerai.
         <br />
       </Left>
       <Right>
